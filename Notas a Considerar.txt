@@ -1,0 +1,8 @@
+CONSIDERAR:
+Para la ejecución de este proyecto, debe de estar en la carpeta que lleve por nombre abinadad, en caso de cambiar el nombre de la carpeta el proyecto no funcionará, en caso de cambiar el nombre de la carpeta por favor modificar el archivo config.php que se encuentra dentro de la carperta de config
+
+- Ejecutado en XAMPP xampp-windows-x64-7.4.29-1-VC15-installer
+- Script de base de datos (MySQL)
+- Código fuente (PHP 8)
+- Diagrama ER
+- Archivo de word con las preguntas respondidas
